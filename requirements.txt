@@ -1,0 +1,14 @@
+langchain
+# Modular components needed for specific functionality:
+langchain-community
+langchain-text-splitters
+langchain-classic
+
+# Core RAG Tools
+chromadb
+ollama
+pydantic
+sentence-transformers
+
+# Enhancement
+pyttsx3
